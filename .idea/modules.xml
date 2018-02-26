@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AudioRecordTrack.iml" filepath="$PROJECT_DIR$/AudioRecordTrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaRecorder/MediaRecorder.iml" filepath="$PROJECT_DIR$/MediaRecorder/MediaRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audiorecord/audiorecord.iml" filepath="$PROJECT_DIR$/audiorecord/audiorecord.iml" />
+    </modules>
+  </component>
+</project>
